@@ -133,19 +133,19 @@ body {
 }
 
 .social-media a:hover {
-    background: rgb(136, 42, 212);;
-    color: rgb(32, 6, 54);;
-    box-shadow: 0 0 20px rgb(136, 42, 212);;
+    background: #ff075b;;
+    color: #171717;;
+    box-shadow: 0 0 20px #ff075b;;
 }
 
 .btn {
     display: inline-block;
     padding: 12px 28px;
-    background: #882ad4;;
+    background: #ff075b;;
     border-radius: 40px;
-    box-shadow: 0 0 10px rgb(136, 42, 212);;
+    box-shadow: 0 0 10px #ff075b;;
     font-size: 16px;
-    color: rgb(32, 6, 54);
+    color: rgb(255, 255, 255);
     letter-spacing: 1px;
     text-decoration: none;
     font-weight: 600;
